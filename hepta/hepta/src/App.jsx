@@ -5,7 +5,6 @@ import Footer from "./components/Footer";
 import Home from "./pages/Home";
 import About from "./pages/About";
 import Services from "./components/Services";
-import Testimonials from "./components/Testimonials";
 import Contact from "./components/Contact";
 import NotFound from "./pages/NotFound";
 import "./App.css";
